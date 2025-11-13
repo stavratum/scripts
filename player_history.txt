@@ -1,0 +1,14 @@
+2025-11-13 04:59:25: steamid = 76561198845412957
+2025-11-13 04:59:25: communityvisibilitystate = 3
+2025-11-13 04:59:25: profilestate = 1
+2025-11-13 04:59:25: personaname = ChudFactor
+2025-11-13 04:59:25: commentpermission = 1
+2025-11-13 04:59:25: profileurl = https://steamcommunity.com/id/ChudFactor/
+2025-11-13 04:59:26: saved the avatar to avatars/1762991966.jpg
+2025-11-13 04:59:26: a nice new avatar: 6111b4af3b4230fdde32a3d25aafd39836bff758
+2025-11-13 04:59:26: personastate = 0
+2025-11-13 04:59:26: realname = One in foxillion
+2025-11-13 04:59:26: primaryclanid = 103582791429521408
+2025-11-13 04:59:26: timecreated = 1530462374
+2025-11-13 04:59:26: personastateflags = 0
+2025-11-13 05:04:26: personastate = 1
